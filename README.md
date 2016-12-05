@@ -15,7 +15,7 @@ Pre-requisites:
 To use this application:
 
 - Open a terminal or command prompt and cd into this directory
-- Type in: "node liri.js <command> <title>
+- Type in: "node liri.js <command> <title>"
 	- command: use one of the commands avaliable below
 	- title: the title of the song or movie you are searching for when using "spotify-this-song" or "movie-this"
 
