@@ -25,3 +25,10 @@ Commands avaliable:
 - spotify-this-song
 - movie-this
 - do-what-it-says
+
+Examples:
+
+- node liri.js my-tweets
+- node liri.js spotify-this-song "Taylor Swift - Love Story"
+- node liri.js movie-this "The Matrix"
+- node liri.js do-what-it-says
